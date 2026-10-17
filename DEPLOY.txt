@@ -1,0 +1,12 @@
+GLINK — сайт проекта (GrapeScript)
+==================================
+Деплой на GitHub Pages:
+1. Загрузите ВСЕ файлы из этого архива в репозиторий GrapeGG-developer/GLINK (ветка main).
+2. Settings → Pages → Source: Deploy from a branch → main / (root) → Save.
+3. Сайт: https://GrapeGG-developer.github.io/GLINK/
+Файлы:
+- index.html — главная (скачать APK / веб-версия), логотип GrapeScript (.lottie) справа внизу
+- web.html — веб-демо интерфейса
+- GLINK.apk — актуальное приложение (обновляйте вместе с version.json!)
+- version.json — фид автообновления приложения
+- GS.lottie — исходник анимированного логотипа GrapeScript
