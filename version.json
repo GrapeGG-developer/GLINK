@@ -1,1 +1,1 @@
-{"versionCode": 19, "versionName": "2.5", "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk", "notes": "GLINK 2.5: исправлена расшифровка потока NFC (IV), островок отодвинут от края, иконки Линкера ровно скруглены."}
+{"versionCode": 20, "versionName": "1.0.0.0.0-STABLE", "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk", "notes": "GLINK 1.0.0.0.0-STABLE: новая нумерация MIUI-стиля (5 разрядов + флаг), полный Metro UI."}
