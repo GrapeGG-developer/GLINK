@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.2.0.0.0-STABLE",
+  "versionCode": 26,
+  "versionName": "1.3.0.0.0-STABLE",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Bluetooth-канал крупных файлов: касание NFC, дальше файлы летят по Bluetooth; NFC ускорен загрузкой файлов в оперативку и буферами; Bluetooth добавлен в обязательные разрешения; После передачи приложение само пробует выключить Bluetooth",
-  "size": 1948361
+  "notes": "GFCAS — GFC Accelerated Speed: фирменный быстрый канал поверх BLE без сопряжения и видимости; Классический Bluetooth заменён: подключение за секунды по токену из NFC-касания; При неудаче GFCAS передача сама уходит в NFC",
+  "size": 1960869
 }
