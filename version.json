@@ -1,1 +1,7 @@
-{"versionCode": 21, "versionName": "1.0.0.1.0-STABLE", "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk", "notes": "GLINK 1.0.0.1.0-STABLE: круглый островок с айдл-анимациями, зелёный перелив заголовка, свободная зона справа."}
+{
+  "versionCode": 22,
+  "versionName": "1.0.1.0.0-STABLE",
+  "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
+  "notes": "Новая кастомная панель обновлений в стиле приложения; Живой прогресс загрузки: проценты, мегабайты и скорость; Проверка обновлений каждые 30 секунд и фоновая — раз в час; Круглый островок, Metro-тайлы и зелёный заголовок",
+  "size": 1935317
+}
