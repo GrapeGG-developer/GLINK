@@ -1,1 +1,1 @@
-{"versionCode": 18, "versionName": "2.4", "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk", "notes": "GLINK 2.4: починена передача NFC (повторы чанков, быстрый ключ сессии), новый техно-островок и стекло-UI."}
+{"versionCode": 19, "versionName": "2.5", "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk", "notes": "GLINK 2.5: исправлена расшифровка потока NFC (IV), островок отодвинут от края, иконки Линкера ровно скруглены."}
