@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.4.1.0.2-STABLE",
+  "versionCode": 34,
+  "versionName": "1.4.1.0.3-STABLE",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Проверка обновлений каждую секунду; Возвращён прежний логотип компании",
-  "size": 3349625
+  "notes": "Фоновая проверка обновлений убрана — не садит батарею; В открытом приложении проверка каждую секунду",
+  "size": 3347417
 }
