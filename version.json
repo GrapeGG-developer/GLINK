@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.4.2.0.2-STABLE",
+  "versionCode": 38,
+  "versionName": "1.4.2.0.3-STABLE",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Плитки проектов светлее — в тон фону приложения",
-  "size": 3348957
+  "notes": "Проверка обновлений каждые 200 мс;Панель обновления анимирована: въезд каскадом и пульс иконки",
+  "size": 3350109
 }
