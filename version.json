@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.4.2.0.3-STABLE",
+  "versionCode": 39,
+  "versionName": "1.5.0.0.0-STABLE",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Проверка обновлений каждые 200 мс;Панель обновления анимирована: въезд каскадом и пульс иконки",
-  "size": 3350109
+  "notes": "Передача только через сервер GrapeScript (шифр ключом из NFC-касания);Интернет — обязательный шаг допуска;Островок: иконки не вылезают за фон, нота ровная",
+  "size": 3359113
 }
