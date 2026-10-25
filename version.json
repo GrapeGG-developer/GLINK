@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.4.2.0.1-STABLE",
+  "versionCode": 37,
+  "versionName": "1.4.2.0.2-STABLE",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Фоновый градиент чуть осветлён; подложка под логотипом убрана",
-  "size": 3348853
+  "notes": "Плитки проектов светлее — в тон фону приложения",
+  "size": 3348957
 }
