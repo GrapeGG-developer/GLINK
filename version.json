@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.5.2.0.0-STABLE",
+  "versionCode": 42,
+  "versionName": "1.5.3.0.0-STABLE",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "GLINK в меню «Поделиться» из любых приложений;Докачка при обрывах, пауза и отмена передачи в уведомлении",
-  "size": 3368689
+  "notes": "Живой фон-настроение по состоянию передачи;Превью видео и настоящая иконка/имя у полученных APK;Островок: скорость, остаток времени, объёмы и прогресс друга",
+  "size": 3374033
 }
