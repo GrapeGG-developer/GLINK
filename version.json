@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "1.9.6.0.0.0",
+  "versionCode": 57,
+  "versionName": "1.9.7.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "ОТКАТ с GMUI TEST на стабильный интерфейс 1.9.5;Плитки проектов: тёмно-цветные фоны (единственное, что осталось от эксперимента)",
-  "size": 4227749
+  "notes": "Плитки проектов: фоны чуть светлее, скругление 14dp;Цвета разведены: ЛОЛТУБ малиновый, GSYNK фиолетовый, GRAPESHIFT лаймовый",
+  "size": 4227901
 }
