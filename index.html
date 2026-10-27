@@ -46,7 +46,21 @@ h2{font-size:32px;font-weight:200;text-align:center} h2 span{color:var(--green)}
 .features{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:28px}
 .f{padding:22px}.f h3{font-size:17px;font-weight:500;margin-bottom:8px}.f p{color:var(--mut);line-height:1.6;font-size:15px}
 footer{text-align:center;color:var(--mut);margin-top:80px;font-size:14px;line-height:1.7}
-</style></head><body>
+</style>
+<style>
+@keyframes drift1{0%{transform:translate(0,0) scale(1)}50%{transform:translate(60px,30px) scale(1.15)}100%{transform:translate(0,0) scale(1)}}
+@keyframes drift2{0%{transform:translate(0,0) scale(1.1)}50%{transform:translate(-70px,-20px) scale(.95)}100%{transform:translate(0,0) scale(1.1)}}
+.aurora{animation:drift2 16s ease-in-out infinite}
+.card{transition:transform .35s cubic-bezier(.2,.9,.3,1.4),box-shadow .35s}
+.card:hover{transform:translateY(-5px);box-shadow:0 18px 44px rgba(139,92,246,.35)}
+.tile{transition:transform .35s cubic-bezier(.2,.9,.3,1.4),box-shadow .35s}
+.tile:hover{transform:translateY(-5px) scale(1.015);box-shadow:0 18px 44px rgba(139,92,246,.35)}
+h1{background-size:200% 100%;animation:shine 7s linear infinite}
+@keyframes shine{to{background-position:200% 0}}
+.btn{transition:transform .25s,box-shadow .25s}
+.btn:hover{transform:translateY(-2px);box-shadow:0 10px 30px rgba(34,227,154,.4)}
+</style>
+</head><body>
 <div class="aurora"></div>
 <div class="wrap">
 <header>
