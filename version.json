@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.9.4.0.0.0",
+  "versionCode": 54,
+  "versionName": "1.9.5.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Прикол: только один за передачу;Фонарик и сирена надёжнее",
-  "size": 4226197
+  "notes": "Предпросмотр перед отправкой: миниатюры, размеры, общий вес;Прикол: только один за передачу",
+  "size": 4227737
 }
