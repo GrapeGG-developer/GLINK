@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "1.9.8.0.0.0",
+  "versionCode": 59,
+  "versionName": "1.9.9.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Цвета плиток сняты с самих иконок проектов;Похожие соседи разведены по оттенку",
-  "size": 4227901
+  "notes": "Предпросмотр: иконки по типу контента вместо логотипа;Символы текста больше не считаются байтами в общем весе",
+  "size": 4231381
 }
