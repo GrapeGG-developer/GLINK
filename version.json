@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.9.3.0.0.0",
+  "versionCode": 53,
+  "versionName": "1.9.4.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Островок: разделители с отступами, без обрезки и лишнего кручения;WEB: чёрная надпись выше, без подложки;Фон живее, blur под окнами (Android 12+)",
-  "size": 4225049
+  "notes": "Прикол: только один за передачу;Фонарик и сирена надёжнее",
+  "size": 4226197
 }
