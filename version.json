@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "2.2.0.0.0.0",
+  "versionCode": 64,
+  "versionName": "2.2.1.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Пакет приложения теперь grp.gs.glink;ВНИМАНИЕ: встанет как новое приложение рядом со старым",
-  "size": 3779573
+  "notes": "ФИКС: возвращена запись MainActivity в манифест — иконка и запуск;Пакет grp.gs.glink",
+  "size": 3780085
 }
