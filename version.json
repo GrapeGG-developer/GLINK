@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "2.4.0.0.0.0",
+  "versionCode": 67,
+  "versionName": "2.5.0.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "GLKUI v2: неоморфизм, боковая панель вместо островка;GPU-рендер, звук и вибрация интерфейса;Главный экран — минимализм",
-  "size": 3782493
+  "notes": "ФЛАГМАН: радар сближения телефонов в панели;Волны ускоряются и загорается точка касания, когда телефон рядом",
+  "size": 3783081
 }
