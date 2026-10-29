@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "2.5.0.0.0.0",
+  "versionCode": 68,
+  "versionName": "2.5.1.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "ФЛАГМАН: радар сближения телефонов в панели;Волны ускоряются и загорается точка касания, когда телефон рядом",
-  "size": 3783081
+  "notes": "ФИКС: боковая панель больше не обрезается по ширине",
+  "size": 3783085
 }
