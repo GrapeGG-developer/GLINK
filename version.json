@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "2.5.1.0.0.0",
+  "versionCode": 69,
+  "versionName": "2.6.0.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "ФИКС: боковая панель больше не обрезается по ширине",
-  "size": 3783085
+  "notes": "ОТКАТ на GLKUI v1: круглый стеклянный островок;Логотип компании теперь сразу после надписи GLINK",
+  "size": 3782705
 }
