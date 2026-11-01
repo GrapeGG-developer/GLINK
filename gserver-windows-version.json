@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 105,
-  "versionName": "1.0.5",
+  "versionCode": 106,
+  "versionName": "1.0.6",
   "url": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GSERVER-Windows-Tunnel.zip",
-  "size": 1695368,
-  "sha256": "f8b6e66056b686c28c58ad5b822e5ad2b4c85072caf1b159c3ff73a6d8df3537",
-  "signature": "VKTgZHlazfu3dIXH4M+bg+n0Rc1fImt2V8yIeuirosBZ3a6lZ/vlbbmDIqb4ORVZrA7aNYJm0Tgf/La6YcYuawoyvk79EqusV02eKWrprY9J8CANg49i7Ra+B7EdlUBYLZ2weF7w6jaySXVdZtr9cP2ypVi8CjIDtka3usIQbtaB0mYDh02MkHXR9XA8pNXlKHj1gfLJLo6leEfvbcBNpUTuPbu37U1dRkpeuaH6PoVBXdi7bHUYPWBpvOWHa9Sxnl+5b6bC2zpW4NEMYMdDshBRwvSHPIYWofGjv4cMLx7d7yO+OVz+bC0HHUSxaGsCGikOGxbySwA0C4+WSAcMVQ=="
+  "size": 1690285,
+  "sha256": "b0ee69a2abe261484704d9d123a5ece66c9ddb0470f73486bfccf964f9d23f59",
+  "signature": "XYLyPw3w/FpShR8X+9uQQla8YG0yStMviuDWkgI7XRQMpHY9PlcO9vsrYOIvu74k2qMnOWln9hiup3Nvmefbna5f/OZrVi/Ly4ztJQsxKFI9DCztFoM7jBLMjCVv19tsqDrNcwQzr6lKYdf6UhgDHhTPIf39YXOqO2+TvuEiQOhRdvJh4mH17D5v/T1cGQY2zM/4syKrVVNOpqldezdCI4rctX5bJzrB4yJs7vU77SfAtFJlQh5sorgYPX2KXLir/f5y/x8DNMpOqFsHUvx5EP7ES60jrSXKl2ut+k9080EKEmvLAukZWCo40GysCfWmJXsv1zf9xL2yNqpqanVB1g=="
 }
