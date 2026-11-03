@@ -1,0 +1,3 @@
+# Separate GLINK / G+ backend (experimental)
+
+GLINK 3.3 and G+ 2.0.GLINK-EXP use a separate Free Render service; it does not read, import or write LOLTUBE's database. G+ remains incomplete and unaudited. The Free service may sleep or be suspended at account limits. Maintain exactly one writer: Cloudinary does not provide a proven fencing/CAS guarantee, and overlapping deploys or multiple instances can corrupt pending data. Do not auto-deploy without a tested drain and backup plan. Authenticated Cloudinary raw objects use the dedicated `glink-gplus-standalone-v1` prefix. `GLINK_CLOUD_MODE=public` selects the public namespace; preview is protected and uses a synthetic prefix. Do not commit credentials or signing keys.
