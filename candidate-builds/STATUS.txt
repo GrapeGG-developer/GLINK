@@ -1,9 +1,5 @@
-НЕ РЕЛИЗ / NOT A RELEASE
+STAGING ONLY — DO NOT INSTALL AS AN UPDATE YET
 
-GLINK 3.1.0.0.0.3 (versionCode 79), G+ 3.1.GLINK-EXP (versionCode 5).
-Только подготовка; эти APK не подключены к updater feed и не предназначены для установки. /gsrv-v1 в production пока 503. Android/NFC на физических устройствах не проверялись. G+ не готов как v1. Исходники в candidate-sources не содержат ключа подписи.
-GLINK содержит безопасное продолжение той же зашифрованной загрузки и защиту Range/финального кадра; продолжение после перезапуска процесса не подтверждено.
-
-GLINK SHA256 c419e74d7bb7d8c3699d5fd70d8f9409521bf7065392dcf8fa9825ae8ca11e22
-G+ SHA256 96a3b1a0c5356834985cc5533085e95db3fc3c3b975a55fe839694aff44317ce
-Source ZIP SHA256 a892cbecfea0399f92ea874644ce36d33512e05006c8518ad85b97844f7b7445
+GLINK 3.3.0.0.0.0 (code80); G+ 2.0.GLINK-EXP (code6).
+Both signed with the existing owner certificate; Android tests 31/31 and 6/6; aapt2, launcher and signer checked.
+Production-compatible /gsrv-v1 is not live. Real Android/NFC, full G+ functionality, safe LOLTUBE cutover and cost limits are not verified. G+ has no avatars, group membership editing or reliable background incoming calls. Main feeds remain unchanged.
