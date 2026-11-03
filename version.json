@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "3.3.0.0.0.0",
+  "versionCode": 82,
+  "versionName": "3.3.1.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "GLINK WEB и обновлённая передача;Отдельный сервер GLINK и G+;G+ доступен как экспериментальная версия",
-  "size": 7314513,
-  "sha256": "72516de048c4c6ddf246e2ea6d367f89cb93e63138ead9519209fbaf12d09dd1"
+  "notes": "Дольше ждём пробуждение сервера;Показываем сохранение части на сервере;Экспериментальный G+ доступен отдельно",
+  "size": 7314713,
+  "sha256": "afae7e63b0bac556d821e78babdd70795fefc3f8cc6d1f2522b07d0ef7329761"
 }

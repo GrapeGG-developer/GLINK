@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "2.0.GLINK-EXP",
+  "versionCode": 8,
+  "versionName": "2.1.GLINK-EXP",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GPlus.apk",
-  "notes": "Экспериментальный G+;Чаты и медиа через отдельный бесплатный сервер;Некоторые функции ещё в разработке",
-  "size": 6700990,
-  "sha256": "80b74d91563380c089c13614b0b1bfbc148d3493ebd12cdecbeb8bcd444d1d77"
+  "notes": "Исправлено ожидание запуска сервера;Увеличено время подтверждения медиа;Экспериментальная версия",
+  "size": 6701514,
+  "sha256": "d9ff46b0554d9a649e81159864d64220d6f9802fc884d1da02dd82bc91648c07"
 }
