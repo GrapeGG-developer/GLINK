@@ -1,0 +1,1 @@
+GLINK code82 and G+ EXP code8: cold-start and media wait fix; no actual phone test. Regional TLS availability remains uncertain.
