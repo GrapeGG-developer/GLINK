@@ -1,8 +1,8 @@
 {
-  "versionCode": 84,
-  "versionName": "3.3.3.0.0.0",
+  "versionCode": 85,
+  "versionName": "3.3.4.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Плитка «Твой ВПН» сразу скачивает Android EXP-демо;После загрузки открывается системный установщик;Демо не подключает VPN и не защищает трафик",
+  "notes": "Плитка «Твой ВПН» скачивает EXP без регистрации;Серверы пока недоступны, VPN не подключается;Прежний APK для старых версий GLINK сохранён",
   "size": 7331537,
-  "sha256": "2e9e92324961641a8f381505a360a2aec34c525426b41555b4684410c13c13f9"
+  "sha256": "dcbd207a35bc0a261ac6694569ce50b5261e209f09af5d1f3bfc436ad49874a6"
 }
