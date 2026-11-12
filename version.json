@@ -1,8 +1,8 @@
 {
-  "versionCode": 89,
-  "versionName": "3.3.8.0.0.0",
+  "versionCode": 90,
+  "versionName": "3.3.9.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Радужная живая полоска на панели обновления; PLAYLAND EXP без изменений",
-  "size": 7387061,
-  "sha256": "3bc155470ba9adac180784b90f95f8d367f5da9651d8680e8c2c31e8a922b0e9"
+  "notes": "PLAYLAND 10002: логотип в границах, без «только телефон»; серый экран",
+  "size": 7366513,
+  "sha256": "c8835cccda537ac8e036babb9886747e27875b8c978caf501211784dc6540436"
 }
