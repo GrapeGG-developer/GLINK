@@ -1,8 +1,8 @@
 {
-  "versionCode": 88,
-  "versionName": "3.3.7.0.0.0",
+  "versionCode": 89,
+  "versionName": "3.3.8.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Плитка PLAYLAND открывает или ставит EXP APK; новый логотип; Windows нет; не выпуск PLAYLAND",
-  "size": 7384405,
-  "sha256": "b26192aa450b32e2ec26304b84647b304f9ecf11ccdbc969f909e4ab6b8c5132"
+  "notes": "Радужная живая полоска на панели обновления; PLAYLAND EXP без изменений",
+  "size": 7387061,
+  "sha256": "3bc155470ba9adac180784b90f95f8d367f5da9651d8680e8c2c31e8a922b0e9"
 }
