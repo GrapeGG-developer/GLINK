@@ -1,8 +1,8 @@
 {
-  "versionCode": 86,
-  "versionName": "3.3.5.0.0.0",
+  "versionCode": 87,
+  "versionName": "3.3.6.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Плитка gPLAYLANDg добавлена в список проектов;Платформа в разработке, загрузки пока недоступны",
-  "size": 7335981,
-  "sha256": "93390162313afcecb26d7894ad39f69a70e537bf29f232c608c393111bffd657"
+  "notes": "Плитка gPLAYLANDg: EXP только телефон, вход через GLINK; Windows нет; PLAYLAND не выпуск",
+  "size": 7339621,
+  "sha256": "0148349d421df22a03150700b1941adb17fe7e8f093afb9c4f89e0464f692fbb"
 }
