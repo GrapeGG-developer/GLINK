@@ -1,8 +1,8 @@
 {
-  "versionCode": 94,
-  "versionName": "3.3.13.0.0.0",
+  "versionCode": 95,
+  "versionName": "3.3.14.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "PLAYLAND 10006: ровная строка громкости в настройках",
+  "notes": "PLAYLAND 10007: вход через GLINK надёжнее, крупнее логотип и вкладки, версия в настройках",
   "size": 7387237,
-  "sha256": "cf7b789cab6e6f039c16832ca2ca748d338051ec3707d5a24062e567e0ec6310"
+  "sha256": "e781d0beab9c79c344c56a1e7eaa9b57f4e2a1882235af4a577bf7304fcfcf0a"
 }
