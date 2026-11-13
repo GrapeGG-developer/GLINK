@@ -1,8 +1,8 @@
 {
-  "versionCode": 91,
-  "versionName": "3.3.10.0.0.0",
+  "versionCode": 92,
+  "versionName": "3.3.11.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "Плитка PLAYLAND как раньше; PLAYLAND 10003: пол и одна комната с другом",
+  "notes": "PLAYLAND 10004: логотип в шапке, вкладки внизу, 3D-персонаж, вход через GLINK надёжнее",
   "size": 7384189,
-  "sha256": "5c628614264d37188b68ba7573a6a8814ae4519f8e647476c0712debdda6664d"
+  "sha256": "e9ab3bbd128000db6ee2c45a8c3bbfdb26303a458bdb0de9bc7d28393319a126"
 }
