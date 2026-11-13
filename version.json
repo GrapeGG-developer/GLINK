@@ -1,8 +1,8 @@
 {
-  "versionCode": 95,
-  "versionName": "3.3.14.0.0.0",
+  "versionCode": 96,
+  "versionName": "3.3.15.0.0.0",
   "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "PLAYLAND 10007: вход через GLINK надёжнее, крупнее логотип и вкладки, версия в настройках",
+  "notes": "PLAYLAND 10008: вход через GLINK без проверки has_method, прямые вызовы моста",
   "size": 7387237,
-  "sha256": "e781d0beab9c79c344c56a1e7eaa9b57f4e2a1882235af4a577bf7304fcfcf0a"
+  "sha256": "966b58d331ba88ca665ba44dd9109f4718779fda0302122415dd78fb2b519a26"
 }
