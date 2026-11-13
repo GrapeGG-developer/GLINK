@@ -1,8 +1,8 @@
 {
-  "versionCode": 96,
-  "versionName": "3.3.15.0.0.0",
-  "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-  "notes": "PLAYLAND 10008: вход через GLINK без проверки has_method, прямые вызовы моста",
-  "size": 7387237,
-  "sha256": "966b58d331ba88ca665ba44dd9109f4718779fda0302122415dd78fb2b519a26"
+    "versionCode": 97,
+    "versionName": "3.3.16.0.0.0",
+    "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
+    "notes": "PLAYLAND 10009: Studio \u0431\u0435\u0437 \u043a\u043e\u0434\u0430, \u0434\u0440\u0443\u0437\u044c\u044f \u043f\u043e \u043d\u0438\u043a\u0443, \u043f\u0430\u043d\u0435\u043b\u044c \u0432\u0445\u043e\u0434\u0430, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436",
+    "size": 7387237,
+    "sha256": "d158732411e96c1ef3ae35cfb8f20acebb6d029de988e66391d18dac7501e543"
 }
