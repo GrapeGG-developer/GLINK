@@ -1,8 +1,8 @@
 {
-    "versionCode": 104,
-    "versionName": "3.3.23.0.0.0",
+    "versionCode": 105,
+    "versionName": "3.3.24.0.0.0",
     "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-    "notes": "Плитки: не установлено — скачивается самая новая версия, установлено — просто открывается; PLAYLAND, G+ и «Твой ВПН» обновляются сами маленькой плашкой",
-    "size": 7402025,
-    "sha256": "a59ca916cbc8d38a3c9f3e3ee843e56acd0c768505fa87a90141f5d24cacedda"
+    "notes": "Плитки PLAYLAND, G+ и «Твой ВПН»: не установлено — сразу скачивается самая новая версия, установлено — открывается; вместо больших панелей и вопросов — маленькая плашка",
+    "size": 7401189,
+    "sha256": "bbf8e61fb33e8f2323b9b87598e028cded4cb32abd047463e3792007b4f47dee"
 }
