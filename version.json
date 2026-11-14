@@ -1,8 +1,8 @@
 {
-    "versionCode": 102,
-    "versionName": "3.3.21.0.0.0",
+    "versionCode": 103,
+    "versionName": "3.3.22.0.0.0",
     "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-    "notes": "PLAYLAND 10014: \u043a\u043e\u043c\u043f\u0430\u043a\u0442\u043d\u044b\u0439 UI",
-    "size": 7387237,
-    "sha256": "fefd7a8e4bcb620612acfb0886c04ab1e8e6ed9543fb38fb10c05da95db89a77"
+    "notes": "Проекты обновляются сами: GLINK больше не нужно обновлять ради PLAYLAND; плитка открывает установленное приложение",
+    "size": 7390637,
+    "sha256": "8caa124aca1cb18483e66125e0618f75ce29fa51620dd52bc4fab7488fdf6e0a"
 }
