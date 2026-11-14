@@ -1,8 +1,8 @@
 {
-    "versionCode": 99,
-    "versionName": "3.3.18.0.0.0",
+    "versionCode": 100,
+    "versionName": "3.3.19.0.0.0",
     "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-    "notes": "PLAYLAND 10011: Studio \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e, UI \u0443\u043b\u0443\u0447\u0448\u0435\u043d",
+    "notes": "PLAYLAND 10012: \u043b\u0430\u043d\u0434\u0448\u0430\u0444\u0442, \u0434\u0436\u043e\u0439\u0441\u0442\u0438\u043a, \u0430\u0432\u0442\u043e\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435",
     "size": 7387237,
-    "sha256": "3a4abe2ecd729ff5b9a8b08e8ee7ea0d84866406aad0735e6b3eb676cdcabc32"
+    "sha256": "407672df66846e6a51870d8610354fa99c9a94c49b2fed9c2a47030d7c19bb5b"
 }
