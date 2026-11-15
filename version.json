@@ -1,8 +1,8 @@
 {
-    "versionCode": 107,
-    "versionName": "3.3.26.0.0.0",
+    "versionCode": 108,
+    "versionName": "3.3.27.0.0.0",
     "apk": "https://raw.githubusercontent.com/GrapeGG-developer/GLINK/main/GLINK.apk",
-    "notes": "Вместо значка на плитке — надпись «Доступно обновление — нажми, чтобы обновить»",
-    "size": 7413557,
-    "sha256": "895d91ad9eef084ce3cbfe51040a6227872b01dd6d21bdb39f0820fadba59f27"
+    "notes": "Значок у надписи «Доступно обновление»; скорость скачивания приложений в МБ/с; отступы от выреза камеры и панели навигации",
+    "size": 7414881,
+    "sha256": "1029872f14d81473d24d9b757fd8443a4a0173e22b3bb8c71f4da276616ed03b"
 }
